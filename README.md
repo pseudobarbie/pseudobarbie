@@ -27,7 +27,7 @@ class pseudobarbie:
 
 **Production:** [`Dokist-ai/core`](https://github.com/Dokist-ai/core) — retrieval systems for legal & financial docs    
 **Experiments:** [`pseudobarbie/side-quests`](https://github.com/pseudobarbie/side-quests) — tooling, agents, detours    
-**Currently Reading:** *Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection* — Asai et al., **ICLR 2024**. Teaching LLMs to evaluate their own retrieval and generation quality through special reflection tokens. Directly relevant to the evaluation harness I'm building for legal-document RAG. [arXiv](https://arxiv.org/abs/2310.11511)
+**Reading:** Self-RAG (Asai, ICLR '24) — LLMs that audit their own retrieval. [paper](https://arxiv.org/abs/2310.11511)
 
 [![core](https://img.shields.io/badge/Dokist--ai/core-8A2BE2?style=flat-square&logo=github&logoColor=white)](https://github.com/Dokist-ai/core)
 [![side-quests](https://img.shields.io/badge/side--quests-ff69b4?style=flat-square&logo=github&logoColor=white)](https://github.com/pseudobarbie/side-quests)
