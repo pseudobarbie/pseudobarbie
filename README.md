@@ -9,16 +9,14 @@
     alt="Typing SVG" />
 </picture>
 
-</div>
-
 <div align="center">
 
   <a href="https://linkedin.com/in/x-y-1a4795300">
-    <img src="https://cdn.simpleicons.org/linkedin/FF6B9D" height="32" alt="LinkedIn" />
+    <img src="https://api.iconify.design/mdi/linkedin.svg?color=%23FF6B9D" height="32" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://dev.to/pseudo_5a412528c6857">
-    <img src="https://cdn.simpleicons.org/devdotto/FF6B9D" height="32" alt="Dev.to" />
+    <img src="https://api.iconify.design/mdi/dev-to.svg?color=%23FF6B9D" height="32" alt="Dev.to" />
   </a>
   &nbsp;&nbsp;
   <a href="https://huggingface.co/pseudobarbie">
