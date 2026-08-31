@@ -9,9 +9,9 @@
     alt="RAG systems for document-heavy industries | LLM agents to production | Python, PyTorch, LangChain" />
 </picture>
 
-<a href="https://linkedin.com/in/x-y-1a4795300"><img src="https://api.iconify.design/mdi/linkedin.svg?color=%23FF6B9D" height="32" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/x-y-1a4795300"><img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%23FF6B9D" height="32" alt="LinkedIn" /></a>
 &nbsp;&nbsp;
-<a href="https://dev.to/pseudo_5a412528c6857"><img src="https://api.iconify.design/mdi/dev-to.svg?color=%23FF6B9D" height="32" alt="Dev.to" /></a>
+<a href="https://dev.to/pseudo_5a412528c6857"><img src="https://api.iconify.design/simple-icons/devdotto.svg?color=%23FF6B9D" height="32" alt="Dev.to" /></a>
 &nbsp;&nbsp;
 <a href="https://huggingface.co/pseudobarbie"><img src="https://cdn.simpleicons.org/huggingface/FF6B9D" height="32" alt="Hugging Face" /></a>
 
