@@ -14,13 +14,15 @@
 <div align="center">
 
   <a href="https://linkedin.com/in/x-y-1a4795300">
-    <img src="https://img.shields.io/badge/-FF6B9D?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/linkedin/FF6B9D" height="32" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://dev.to/pseudo_5a412528c6857">
-    <img src="https://img.shields.io/badge/-FF6B9D?style=for-the-badge&logo=devdotto&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/devdotto/FF6B9D" height="32" alt="Dev.to" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://huggingface.co/pseudobarbie">
-    <img src="https://img.shields.io/badge/-FF6B9D?style=for-the-badge&logo=huggingface&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/huggingface/FF6B9D" height="32" alt="Hugging Face" />
   </a>
 
 </div>
