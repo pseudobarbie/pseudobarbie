@@ -11,7 +11,25 @@
 
 </div>
 
+<div align="center">
+
+  <a href="https://linkedin.com/in/x-y-1a4795300">
+    <img src="https://img.shields.io/badge/-FF6B9D?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://dev.to/pseudobarbie">
+    <img src="https://img.shields.io/badge/-FF6B9D?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/pseudobarbie">
+    <img src="https://img.shields.io/badge/-FF6B9D?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://huggingface.co/pseudobarbie">
+    <img src="https://img.shields.io/badge/-FF6B9D?style=for-the-badge&logo=huggingface&logoColor=white" />
+  </a>
+
+</div>
+
 <br>
+
 
 ```python
 class pseudobarbie:
