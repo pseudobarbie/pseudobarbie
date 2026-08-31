@@ -25,8 +25,8 @@ class pseudobarbie:
 
 ---
 
-**Production:** [`Dokist-ai/core`](https://github.com/Dokist-ai/core) — retrieval systems for legal & financial docs  
-**Experiments:** [`pseudobarbie/side-quests`](https://github.com/pseudobarbie/side-quests) — tooling, agents, detours
+**Production:** [`Dokist-ai/core`](https://github.com/Dokist-ai/core) — retrieval systems for legal & financial docs    
+**Experiments:** [`pseudobarbie/side-quests`](https://github.com/pseudobarbie/side-quests) — tooling, agents, detours    
 **Currently Reading:** [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) — *Lewis et al., NeurIPS 2020*  
 End-to-end fine-tuning of retriever + generator. Relevant to my work on legal-document RAG pipelines.
 
