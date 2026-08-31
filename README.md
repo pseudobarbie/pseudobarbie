@@ -26,7 +26,7 @@ class pseudobarbie:
 
 ---
 
-**Production:** [`Dokist-ai/core`](https://github.com/Dokist-ai/core) — retrieval systems for legal & financial docs    
+**Production:** [`Dokist-ai/core`](https://github.com/Dokist-ai/core) — shipping retrieval systems that actually retrieve for legal & financial docs    
 **Experiments:** [`pseudobarbie/side-quests`](https://github.com/pseudobarbie/side-quests) — tooling, agents, detours    
 **Reading:** Self-RAG (Asai, ICLR '24) — LLMs that audit their own retrieval. [paper](https://arxiv.org/abs/2310.11511)
 
