@@ -14,16 +14,10 @@
 <div align="center">
 
   <a href="https://linkedin.com/in/x-y-1a4795300">
-    <img src="https://img.shields.io/badge/-FF6B9D?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&color=FF6B9D&size=32" />
   </a>
   <a href="https://dev.to/pseudobarbie">
-    <img src="https://img.shields.io/badge/-FF6B9D?style=for-the-badge&logo=dev.to&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/pseudobarbie">
-    <img src="https://img.shields.io/badge/-FF6B9D?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://huggingface.co/pseudobarbie">
-    <img src="https://img.shields.io/badge/-FF6B9D?style=for-the-badge&logo=huggingface&logoColor=white" />
+    <img src="https://readmecodegen.vercel.app/api/social-icon?name=dev.to&color=FF6B9D&size=32" />
   </a>
 
 </div>
