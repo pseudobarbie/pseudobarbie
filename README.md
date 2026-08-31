@@ -1,20 +1,23 @@
 <div align="center">
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=building+brains+for+boring+documents;rag+%E2%86%92+llm+agents+%E2%86%92+production;python+wrangler+%7C+she%2Fher" alt="Typing SVG" />
-</a>
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=E879F9&center=true&vCenter=true&width=480&lines=RAG+systems+for+document-heavy+industries;LLM+agents+%E2%86%92+production;Python+%7C+PyTorch+%7C+LangChain" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=480&lines=RAG+systems+for+document-heavy+industries;LLM+agents+%E2%86%92+production;Python+%7C+PyTorch+%7C+LangChain" 
+    alt="Typing SVG" />
+</picture>
 
 </div>
 
 ```python
-class PseudoBarbie:
-    role        = "AI Engineer"
-    org         = "@Dokist-ai"
-    focus       = ["RAG", "LLM Agents", "Legal/Financial NLP"]
-    stack       = ["PyTorch", "LangChain", "FastAPI", "Docker"]
-    currently   = "making documents less tedious"
-    side_quests = "pseudobarbie/side-quests"
+class pseudobarbie:
+    role   = "AI Engineer"
+    org    = "@Dokist-ai"
+    focus  = ["RAG", "LLM Agents", "Legal/Financial NLP"]
+    stack  = ["PyTorch", "LangChain", "FastAPI", "Docker"]
+    side   = "github.com/pseudobarbie/side-quests"
 
     def contact(self):
         return "linkedin.com/in/x-y-1a4795300"
@@ -22,9 +25,9 @@ class PseudoBarbie:
 
 ---
 
-**now:** shipping retrieval systems that actually retrieve  
-**next:** agents that file your taxes while you sleep  
-**always:** side quests > main storyline
+**Production:** [`Dokist-ai/core`](https://github.com/Dokist-ai/core) — retrieval systems for legal & financial docs  
+**Experiments:** [`pseudobarbie/side-quests`](https://github.com/pseudobarbie/side-quests) — tooling, agents, detours
 
-[![core](https://img.shields.io/badge/%F0%9F%94%A5_Dokist--ai/core-legal_&_financial_rag-8A2BE2)](https://github.com/Dokist-ai/core)
-[![side-quests](https://img.shields.io/badge/%F0%9F%8E%AE_pseudobarbie/side--quests-experiments-ff69b4)](https://github.com/pseudobarbie/side-quests)
+[![core](https://img.shields.io/badge/Dokist--ai/core-8A2BE2?style=flat-square&logo=github&logoColor=white)](https://github.com/Dokist-ai/core)
+[![side-quests](https://img.shields.io/badge/side--quests-ff69b4?style=flat-square&logo=github&logoColor=white)](https://github.com/pseudobarbie/side-quests)
+[![huggingface](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=000&style=flat-square)](https://huggingface.co/pseudobarbie)
