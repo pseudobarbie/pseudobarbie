@@ -13,7 +13,7 @@
 
 ```python
 class pseudobarbie:
-    role   = "AI Engineer"
+    role   = "AI/CS Student"
     org    = "@Dokist-ai"
     focus  = ["RAG", "LLM Agents", "Legal/Financial NLP"]
     stack  = ["PyTorch", "LangChain", "FastAPI", "Docker"]
