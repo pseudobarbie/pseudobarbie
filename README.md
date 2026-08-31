@@ -17,6 +17,7 @@ class pseudobarbie:
     org    = "@Dokist-ai"
     focus  = ["RAG", "LLM Agents", "Legal/Financial NLP"]
     stack  = ["PyTorch", "LangChain", "FastAPI", "Docker"]
+    mission  = "Making documents less tedious"
     side   = "github.com/pseudobarbie/side-quests"
 
     def contact(self):
