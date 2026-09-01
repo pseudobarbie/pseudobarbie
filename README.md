@@ -20,14 +20,14 @@
 ```python
 class pseudobarbie:
     role     = "AI Engineer & Founder"
-    org      = "@Dokist"
+    org      = "@Dokist-ai"
     focus    = ["RAG", "LLM Agents", "Legal/Financial NLP"]
     stack    = ["PyTorch", "LangChain", "FastAPI", "Docker"]
     mission  = "Making documents less tedious"
     side     = "github.com/pseudobarbie/side-quests"
 
     def contact(self):
-        return "linkedin.com/in/x-y-1a4795300"
+        return "linkedin.com/in/pseudobarbie"
 ```
 
 ---
